@@ -26,7 +26,7 @@ A modern, interactive web application to visualize various sorting and pathfindi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MuhammadAmmarKhan/algorithms-visualization.git
+   git clone https://github.com/TheMR-777/algorithms-visualization.git
    ```
 2. Install dependencies:
    ```bash
@@ -39,7 +39,7 @@ A modern, interactive web application to visualize various sorting and pathfindi
 
 ## Deployment
 
-This project is deployed to GitHub Pages. Visit [https://MuhammadAmmarKhan.github.io/algorithms-visualization/](https://MuhammadAmmarKhan.github.io/algorithms-visualization/) to see it in action.
+This project is deployed to GitHub Pages. Visit [https://TheMR-777.github.io/algorithms-visualization/](https://TheMR-777.github.io/algorithms-visualization/) to see it in action.
 
 ## License
 
